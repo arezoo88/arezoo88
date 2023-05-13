@@ -1,4 +1,4 @@
-# 🏄‍♂️ Arezoo Darvishi
+# 🚵‍♀️ Arezoo Darvishi
 
 **`Backend and FrontEnd (Developer)`**
 
