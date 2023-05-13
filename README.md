@@ -8,8 +8,8 @@ I'm an indie full-stack developer that loves everything related to back-end, fro
    <p align="left">
       <a href="https://www.linkedin.com/in/arezoo-darvishi/">
          <img alt="LinkedIn" title="LinkedIn" src="https://camo.githubusercontent.com/fe562683ed01ad959d42830b6c538d1a11bb958d97e3221450453c0f6e2c4f1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d626c75653f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a> 
-      <a href="mailto:arezoo.darvish6969@gmail.com">
-
+ <a href="mailto:arezoo.darvish6969@gmail.com">
+         <img alt="Gmail" src="https://camo.githubusercontent.com/21b25ef238b1c76efe45cfd5b97e79bbfe2fbc00de2b9fc3890b4432f6a783e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
    </p>
 
 ---
